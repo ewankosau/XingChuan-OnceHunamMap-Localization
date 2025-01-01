@@ -363,6 +363,8 @@ export default {
         "灼风传送塔": "BlazeWind Teleportation Tower",
         "硫磺池传送塔": "Sulfur Pool Teleportation Tower",
         "炽尘巨楔传送塔": "FireDust Teleportation Tower",
+        "冻原巨楔传送塔": "Tundra Monolith Teleportation Tower",
+
 
         // Monoliths - 巨楔
         "贪欲巨楔": "Monolith of Greed",
@@ -907,6 +909,13 @@ export default {
         "蝶之梦": "Rebecca",
         "气球狗": "Pup Buddy",
         "一碗美味": "Hug-In-A-Bowl",
+        "永恒烈阳": "Invincible Sun",
+        "鱼航员": "Hydronaut Fish",
+        "极寒水母钓点": "Polar Jelly",
+        "守夜灯": "Gazocchio",
+        "冰之瓶": "Ice Pot",
+        "冬灵": "Snowsprite",
+        "焦油布丁": "Tar Pudding",
         //"": "Masonic Pyramid",
         // Mysterious Painting - 诡谲画作
         "诡谲画作·代顿湿地": "Mysterious Painting · Dayton Wetlands",
